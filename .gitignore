@@ -2,3 +2,4 @@
 .idea
 # Poetry project files
 poetry.lock
+__pycache__/
