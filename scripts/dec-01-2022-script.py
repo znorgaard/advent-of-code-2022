@@ -2,7 +2,9 @@
 
 """dec-01-2022-script.py
 
-This script accepts a text file of elf calorie counts as input and outputs the maximum calorie count for a single elf.
+This script accepts a text file of elf calorie counts as input and outputs:
+  - the maximum calorie count for a single elf
+  - the total calories carried by the top three elves
 
 Example:
     $ dec-01-2022-script.py calories.txt
