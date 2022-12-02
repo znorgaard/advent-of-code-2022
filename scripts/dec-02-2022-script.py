@@ -3,7 +3,8 @@
 """dec-02-2022-script.py
 
 This script accepts a text file representing a rock, paper, scissors tournament strategy guide and outputs:
-  - The total score obtained by following the guide
+  - The total score obtained by following the guide using code 1
+  - The total score obtained by following the guide using code 2
 
 Example:
     $ dec-02-2022-script.py strategy_guide.txt
