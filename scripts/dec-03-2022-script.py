@@ -2,7 +2,7 @@
 
 """dec-03-2022-script.py
 
-This script accepts a text file representing the contents of many elf rucksacks and ouputs:
+This script accepts a text file representing the contents of many elf rucksacks and outputs:
   - The sum of the priority of items sorted improperly (same item type in multiple compartments)
   - The sum of the priority of each group's badge
 
