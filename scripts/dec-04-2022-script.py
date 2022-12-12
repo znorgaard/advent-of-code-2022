@@ -4,6 +4,7 @@
 
 This script accepts a text file representing elf section cleaning assignments and outputs:
   - The number of elf pairs where one cleaning assignment fully overlaps the other
+  - The number of elf pairs with any cleaning assignment overlaps
 
 Example:
     $ dec-04-2022-script.py cleaning_assignments.txt
