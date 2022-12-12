@@ -13,6 +13,7 @@ Example:
 from advent_of_code_2022 import dec_05_2022, utils
 import argparse
 
+
 def parse_args():
     """Parse arguments from the command-line."""
     arg_parser = argparse.ArgumentParser()
